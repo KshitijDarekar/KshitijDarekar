@@ -60,10 +60,10 @@
 C/C++, Python, jQuery, Bootstrap, MongoDB, MySQL
 
 ## 🏅 Awards & Recognition
-- **6th Place / Top 10 Globally** — Candescent 2026 Global Internal Engineering Hackathon (AI Payment Intelligence PoC)
-- **HackViolet 2022** — $100 team prize
-- **Hack the Mountains 2.0** — Top 55 teams
-- **ACM RAIT Hackathon 2020** — 2nd place
+- **6th Place / Top 10 Globally** — Candescent Global Internal Engineering Hackathon (2026)
+- **HackViolet** — $100 team prize (2022)
+- **Hack the Mountains 2.0** — Top 55 teams (2021)
+- **ACM RAIT Hackathon** — 2nd place (2020)
 
 ## ⚡ Fellowships & Open Source
 - 🎓 **MLH Prep Fellow** (2022)
