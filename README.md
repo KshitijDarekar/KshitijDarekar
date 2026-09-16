@@ -17,7 +17,8 @@
 - ⚡ Improved high-volume payments API performance by **~20%** by delivering optimized Java 17 + Spring Boot services.
 - 🔄 Led modernization from **Java 8 → Java 17** and **Tomcat → TomEE**, including `javax` → `jakarta` migration for better performance and maintainability.
 - 📊 Built React/TypeScript operational dashboards that improved transaction visibility and reduced incident triage time.
-- 🛡️ Automated CI/CD and integrated SonarQube, Coverity, and Mend checks, contributing to a **~40% reduction in vulnerabilities**.
+- 🤖 Built an AI-powered payment intelligence proof of concept during the 2026 internal engineering hackathon (Top 10 globally, 6th/181 submissions).
+- 🛡️ Automated CI/CD and integrated SonarQube, Coverity, Mend, Wiz, and JFrog Xray checks, contributing to a **~40% reduction in vulnerabilities**.
 
 ## 💼 Experience
 **Software Engineer — Candescent (formerly NCR Digital Banking)**  
@@ -34,6 +35,7 @@
 - **Backend:** Java (8–17), Spring Boot, REST APIs, microservices, event-driven architecture, PostgreSQL
 - **Cloud & Platform:** AWS, GCP, Docker, Kubernetes, Jenkins CI/CD
 - **Frontend & Quality:** React, TypeScript, Redux, Playwright, Vitest, JUnit 5
+- **AI Exposure:** AI-powered payment intelligence PoC, Python/FastAPI-based ML service integration
 - **Engineering Focus:** Distributed systems, observability, production support, secure coding in fintech environments
 
 ## 📚 Earlier Exposure
