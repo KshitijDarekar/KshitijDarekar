@@ -25,7 +25,7 @@
 *Jul 2023 – Present*
 - Build and operate distributed payment/deposit services in regulated financial environments with strict reliability and audit requirements.
 - Drove architecture and modernization initiatives across core microservices, observability, and secure service communication.
-- Selected among the **Top 10 global teams** in the 2026 internal engineering hackathon (**6th/181 submissions, 462 engineers**) for delivering an AI-powered payment intelligence PoC.
+- Improved production reliability through structured logging, proactive monitoring, and rapid root-cause analysis for high-impact transaction incidents.
 
 **Software Engineer Intern — NCR Corporation**  
 *Feb 2023 – Jul 2023*
@@ -35,13 +35,19 @@
 - **Backend:** Java (8–17), Spring Boot, REST APIs, microservices, event-driven architecture, PostgreSQL
 - **Cloud & Platform:** AWS, GCP, Docker, Kubernetes, Jenkins CI/CD
 - **Frontend & Quality:** React, TypeScript, Redux, Playwright, Vitest, JUnit 5
-- **AI & AI-Assisted Engineering:** AI-powered payment intelligence PoC, Python/FastAPI-based ML integration, GitHub Copilot, Cursor, MCP server workflows
+- **AI-Assisted Engineering:** GitHub Copilot, Cursor, MCP server workflows
 - **Engineering Focus:** Distributed systems, observability, production support, secure coding in fintech environments
 
 ## 📚 Earlier Exposure
 C/C++, Python, jQuery, Bootstrap, MongoDB, MySQL
 
-## 🏆 Highlights
+## 🏅 Awards & Recognition
+- **Top 10 globally** in Candescent’s 2026 internal engineering hackathon (**6th of 181 submissions, 462 engineers**) for an AI-powered payment intelligence PoC.
+- **HackViolet 2022** — $100 team prize
+- **Hack the Mountains 2.0** — Top 55 teams
+- **ACM RAIT Hackathon 2020** — 2nd place
+
+## 🏆 Additional
 - **MLH Prep Fellow** (2022)
 - **GirlScript Summer of Code** participant (June 2021)
 
