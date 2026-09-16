@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=140&section=header&text=Kshitij%20Darekar&fontSize=44&fontColor=ffffff&animation=fadeIn" alt="header" />
+</p>
+
 <h1 align="center">Kshitij Darekar 👋</h1>
 <p align="center">
   <strong>Software Engineer (3 years) building high-scale payments and digital banking systems with Java/Spring microservices.</strong>
@@ -10,6 +14,13 @@
   <a href="https://kshitij-darekar.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/kshitij-darekar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:kshitijdarekar13@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-3%20Years-0ea5e9?style=flat-square" alt="Experience badge" />
+  <img src="https://img.shields.io/badge/Deposits-800K%2B%2Fday-2563eb?style=flat-square" alt="Deposits badge" />
+  <img src="https://img.shields.io/badge/Peak%20Scale-1.5M%2Fday-1d4ed8?style=flat-square" alt="Peak scale badge" />
+  <img src="https://img.shields.io/badge/Hackathon-Top%2010%20Global-f59e0b?style=flat-square" alt="Hackathon badge" />
 </p>
 
 ## 🚀 Impact Highlights
@@ -30,6 +41,11 @@
 **Software Engineer Intern — NCR Corporation**  
 *Feb 2023 – Jul 2023*
 - Contributed to multi-cloud deployment workflows (AWS/GCP), internal automation, and containerization efforts.
+
+## 🧰 Tech Stack at a Glance
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,aws,gcp,docker,kubernetes,jenkins,react,ts,python&theme=light" alt="Tech stack icons" />
+</p>
 
 ## 🧠 Core Expertise
 - **Backend:** Java (8–17), Spring Boot, REST APIs, microservices, event-driven architecture, PostgreSQL
