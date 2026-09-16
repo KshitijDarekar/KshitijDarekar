@@ -1,13 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=140&section=header&text=Kshitij%20Darekar&fontSize=44&fontColor=ffffff&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=header&animation=fadeIn" alt="header banner" />
 </p>
 
 <h1 align="center">Kshitij Darekar 👋</h1>
+
 <p align="center">
-  <strong>Software Engineer (3 years) building high-scale payments and digital banking systems with Java/Spring microservices.</strong>
+  <strong>Software Engineer (3+ years) building high-scale payments and digital banking systems using Java/Spring microservices.</strong>
 </p>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&pause=1200&color=2563EB&center=true&vCenter=true&width=800&lines=Fintech+Backend+Engineer+%7C+Distributed+Systems;Owning+transaction+critical+microservices+at+scale;Building+reliable+APIs+for+regulated+banking+platforms" alt="Typing intro" />
+  <strong>Fintech Backend Engineer</strong> &nbsp;|&nbsp; <strong>Distributed Systems</strong> &nbsp;|&nbsp; <strong>High-Availability APIs</strong>
 </p>
 
 <p align="center">
@@ -17,17 +19,17 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-3%20Years-0ea5e9?style=flat-square" alt="Experience badge" />
-  <img src="https://img.shields.io/badge/Deposits-800K%2B%2Fday-2563eb?style=flat-square" alt="Deposits badge" />
-  <img src="https://img.shields.io/badge/Peak%20Scale-1.5M%2Fday-1d4ed8?style=flat-square" alt="Peak scale badge" />
-  <img src="https://img.shields.io/badge/Hackathon-Top%2010%20Global-f59e0b?style=flat-square" alt="Hackathon badge" />
+  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-0ea5e9?style=flat-square" alt="Experience" />
+  <img src="https://img.shields.io/badge/Domain-Fintech%20%26%20Banking-2563eb?style=flat-square" alt="Domain" />
+  <img src="https://img.shields.io/badge/Architecture-Microservices-059669?style=flat-square" alt="Architecture" />
+  <img src="https://img.shields.io/badge/Hackathon-Top%2010%20Global-f59e0b?style=flat-square" alt="Hackathon" />
 </p>
 
 ## 🚀 Impact Highlights
 - 🏅 **Ranked Top 10 globally** in Candescent’s 2026 internal engineering hackathon (**6th of 181 submissions, 462 engineers**) with an AI-powered payment intelligence PoC.
-- 💳 Own core Transaction Gateway microservices processing **800K+ deposits/day** (peak near **1.5M**) and ~**250K DDA transfers/day** for enterprise banking clients.
-- ⚡ Improved high-volume payments API performance by **~20%** by delivering optimized Java 17 + Spring Boot services.
-- 🔄 Led modernization from **Java 8 → Java 17** and **Tomcat → TomEE**, including `javax` → `jakarta` migration for better performance and maintainability.
+- 💳 Own core Transaction Gateway microservices processing **800K+ deposits/day** (peak near **1.5M**) and **~250K DDA transfers/day** for enterprise banking clients.
+- ⚡ Improved high-volume payments API performance by **~20%** by delivering optimized `Java 17` + `Spring Boot` services.
+- 🔄 Led modernization from `Java 8` → `Java 17` and `Tomcat` → `TomEE`, including `javax` → `jakarta` migration for better performance and maintainability.
 - 📊 Built React/TypeScript operational dashboards that improved transaction visibility and reduced incident triage time.
 - 🛡️ Automated CI/CD and integrated SonarQube, Coverity, Mend, Wiz, and JFrog Xray checks, contributing to a **~40% reduction in vulnerabilities**.
 
@@ -44,7 +46,7 @@
 
 ## 🧰 Tech Stack at a Glance
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,aws,gcp,docker,kubernetes,jenkins,react,ts,python&theme=light" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,aws,gcp,docker,kubernetes,jenkins,react,ts,python" alt="Tech stack icons" />
 </p>
 
 ## 🧠 Core Expertise
@@ -58,12 +60,17 @@
 C/C++, Python, jQuery, Bootstrap, MongoDB, MySQL
 
 ## 🏅 Awards & Recognition
-- **Top 10 globally** in Candescent’s 2026 internal engineering hackathon (**6th of 181 submissions, 462 engineers**) for an AI-powered payment intelligence PoC.
+- **6th Place / Top 10 Globally** — Candescent 2026 Global Internal Engineering Hackathon (AI Payment Intelligence PoC)
 - **HackViolet 2022** — $100 team prize
 - **Hack the Mountains 2.0** — Top 55 teams
 - **ACM RAIT Hackathon 2020** — 2nd place
 
-## 🏆 Additional
-- **MLH Prep Fellow** (2022)
-- **GirlScript Summer of Code** participant (June 2021)
+## 🏅 Awards & Recognition
+- **6th Place / Top 10 Globally** — Candescent Global Internal Engineering Hackathon (2026)
+- **HackViolet** — $100 team prize (2022)
+- **Hack the Mountains 2.0** — Top 55 teams (2021)
+- **ACM RAIT Hackathon** — 2nd place (2020)
 
+## ⚡ Fellowships & Open Source
+- 🎓 **MLH Prep Fellow** (2022)
+- 💻 **GirlScript Summer of Code** participant (2021)
