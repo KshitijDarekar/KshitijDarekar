@@ -13,11 +13,11 @@
 </p>
 
 ## 🚀 Impact Highlights
+- 🏅 **Ranked Top 10 globally** in Candescent’s 2026 internal engineering hackathon (**6th of 181 submissions, 462 engineers**) with an AI-powered payment intelligence PoC.
 - 💳 Own core Transaction Gateway microservices processing **800K+ deposits/day** (peak near **1.5M**) and ~**250K DDA transfers/day** for enterprise banking clients.
 - ⚡ Improved high-volume payments API performance by **~20%** by delivering optimized Java 17 + Spring Boot services.
 - 🔄 Led modernization from **Java 8 → Java 17** and **Tomcat → TomEE**, including `javax` → `jakarta` migration for better performance and maintainability.
 - 📊 Built React/TypeScript operational dashboards that improved transaction visibility and reduced incident triage time.
-- 🤖 Built an AI-powered payment intelligence proof of concept during the 2026 internal engineering hackathon (Top 10 globally, 6th/181 submissions).
 - 🛡️ Automated CI/CD and integrated SonarQube, Coverity, Mend, Wiz, and JFrog Xray checks, contributing to a **~40% reduction in vulnerabilities**.
 
 ## 💼 Experience
@@ -25,7 +25,7 @@
 *Jul 2023 – Present*
 - Build and operate distributed payment/deposit services in regulated financial environments with strict reliability and audit requirements.
 - Drove architecture and modernization initiatives across core microservices, observability, and secure service communication.
-- Ranked **Top 10 globally** in the 2026 internal engineering hackathon (**6th/181 submissions, 462 engineers**), delivering an AI-powered payment intelligence PoC.
+- Selected among the **Top 10 global teams** in the 2026 internal engineering hackathon (**6th/181 submissions, 462 engineers**) for delivering an AI-powered payment intelligence PoC.
 
 **Software Engineer Intern — NCR Corporation**  
 *Feb 2023 – Jul 2023*
@@ -35,7 +35,7 @@
 - **Backend:** Java (8–17), Spring Boot, REST APIs, microservices, event-driven architecture, PostgreSQL
 - **Cloud & Platform:** AWS, GCP, Docker, Kubernetes, Jenkins CI/CD
 - **Frontend & Quality:** React, TypeScript, Redux, Playwright, Vitest, JUnit 5
-- **AI Exposure:** AI-powered payment intelligence PoC, Python/FastAPI-based ML service integration
+- **AI & AI-Assisted Engineering:** AI-powered payment intelligence PoC, Python/FastAPI-based ML integration, GitHub Copilot, Cursor, MCP server workflows
 - **Engineering Focus:** Distributed systems, observability, production support, secure coding in fintech environments
 
 ## 📚 Earlier Exposure
