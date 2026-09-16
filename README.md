@@ -67,8 +67,3 @@ C/C++, Python, jQuery, Bootstrap, MongoDB, MySQL
 - **MLH Prep Fellow** (2022)
 - **GirlScript Summer of Code** participant (June 2021)
 
-## 📈 GitHub Snapshot
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KshitijDarekar&show_icons=true&rank_icon=github&hide_border=true&theme=transparent" height="155" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KshitijDarekar&layout=compact&hide_border=true&theme=transparent" height="155" alt="Top languages" />
-</p>
