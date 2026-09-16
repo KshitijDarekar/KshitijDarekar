@@ -65,12 +65,6 @@ C/C++, Python, jQuery, Bootstrap, MongoDB, MySQL
 - **Hack the Mountains 2.0** — Top 55 teams
 - **ACM RAIT Hackathon 2020** — 2nd place
 
-## 🏅 Awards & Recognition
-- **6th Place / Top 10 Globally** — Candescent Global Internal Engineering Hackathon (2026)
-- **HackViolet** — $100 team prize (2022)
-- **Hack the Mountains 2.0** — Top 55 teams (2021)
-- **ACM RAIT Hackathon** — 2nd place (2020)
-
 ## ⚡ Fellowships & Open Source
 - 🎓 **MLH Prep Fellow** (2022)
 - 💻 **GirlScript Summer of Code** participant (2021)
